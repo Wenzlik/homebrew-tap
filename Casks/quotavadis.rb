@@ -1,6 +1,6 @@
 cask "quotavadis" do
-  version "0.6.0"
-  sha256 "9acfd551d6e7bb062889f5480f858eba326a4da0527dfeec709f8ad96db16e0b"
+  version "0.6.1"
+  sha256 "fe4a71c92dcc1fa62b16a991a12243be22a10dd0d80d4b94a61e829c8ac8a986"
 
   url "https://zmrhal.cz/quotavadis/QuotaVadis-#{version}.zip"
   name "QuotaVadis"
